@@ -1,0 +1,9 @@
+<span id="a">Andres@torrescyber.com</span>:<span id="b">~</span><span id="c">$</span> cat tcs.txt<br/><br/>
+Hi, I'm Andres Torres.
+<!--laglaglaglaglag-->
+I am a Cyber Translator at Torres Cybersecurity.
+<!--laglaglaglaglag-->
+I started Torres Cybersecurity due to the increasing need for someone to explain how these technologies affect the bottom-line.
+<!--laglaglaglaglag-->
+Our guiding priciple here is to make Cyber less scary, and equip our customers with the knowledge to defend themselves from the many threats that cyberspace brings.
+<p>We can be reached at <a href="tel:+17023811939">(702)381-1939‬</a>  or by email at:<a href="mailto:sales@torrescyber.com">sales@torrescyber.com</a></p>
